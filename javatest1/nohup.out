@@ -1,0 +1,559 @@
+2022-03-19 23:57:44,791 [   2534]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.AndroidInitialConfigurator) 
+2022-03-19 23:57:49,729 [   7472]   WARN - tartup.impl.StartupManagerImpl - Activities registered via registerPostStartupActivity must be dumb-aware: com.android.tools.idea.stats.AndroidStudioUsageTracker$ProjectLifecycleTracker$projectComponentsInitialized$1@5ffd8e8c 
+2022-03-19 23:57:51,940 [   9683]   WARN -            #com.android.ddmlib - * daemon not running; starting now at tcp:5037 
+2022-03-19 23:57:51,953 [   9696]   WARN -            #com.android.ddmlib - * daemon started successfully 
+2022-03-19 23:57:52,585 [  10328]   WARN - #com.intellij.ui.jcef.JBCefApp - JCEF runtime library is not a JBR module (Use JBR bundled with the IDE) 
+2022-03-19 23:58:00,077 [  17820]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.apk.ApkWritingAccessProvider) 
+2022-03-19 23:58:01,449 [  19192]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..MyApplication 
+2022-03-19 23:58:01,520 [  19263]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2022-03-19 23:58:02,395 [  20138]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl) 
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+2022-03-20 00:00:40,797 [ 178540]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Gradle' id=reference.settingsdialog.project.gradle 
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+2022-03-20 00:15:59,337 [   2289]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.AndroidInitialConfigurator) 
+2022-03-20 00:16:04,615 [   7567]   WARN - tartup.impl.StartupManagerImpl - Activities registered via registerPostStartupActivity must be dumb-aware: com.android.tools.idea.stats.AndroidStudioUsageTracker$ProjectLifecycleTracker$projectComponentsInitialized$1@2b459d91 
+2022-03-20 00:16:07,723 [  10675]   WARN - #com.intellij.ui.jcef.JBCefApp - JCEF runtime library is not a JBR module (Use JBR bundled with the IDE) 
+2022-03-20 00:16:16,639 [  19591]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.apk.ApkWritingAccessProvider) 
+2022-03-20 00:16:18,295 [  21247]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..MyApplication 
+2022-03-20 00:16:18,409 [  21361]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2022-03-20 00:16:19,004 [  21956]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl) 
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+2022-03-20 00:16:44,128 [  47080]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Gradle' id=reference.settingsdialog.project.gradle 
+2022-03-20 00:16:45,395 [  48347]   WARN - re.configurables.PsContextImpl - PSD failed to fetch Gradle models. 
+java.util.concurrent.CancellationException
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:121)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com.google.common.util.concurrent.Uninterruptibles.getUninterruptibly(Uninterruptibles.java:240)
+	at com.google.common.util.concurrent.Futures.getDone(Futures.java:1123)
+	at com.google.common.util.concurrent.AbstractCatchingFuture.run(AbstractCatchingFuture.java:92)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:30)
+	at com.google.common.util.concurrent.ExecutionList.executeListener(ExecutionList.java:141)
+	at com.google.common.util.concurrent.ExecutionList.execute(ExecutionList.java:130)
+	at com.google.common.util.concurrent.ListenableFutureTask.done(ListenableFutureTask.java:107)
+	at java.base/java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:381)
+	at java.base/java.util.concurrent.FutureTask.cancel(FutureTask.java:179)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$2.dispose(GradleResolver.kt:51)
+	at com.intellij.openapi.util.ObjectTree.runWithTrace(ObjectTree.java:138)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:168)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:153)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:141)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.disposeUIResources(ProjectStructureConfigurable.kt:427)
+	at com.intellij.openapi.options.ex.ConfigurableCardPanel.dispose(ConfigurableCardPanel.java:153)
+	at com.intellij.openapi.options.ex.ConfigurableCardPanel.dispose(ConfigurableCardPanel.java:35)
+	at java.base/java.util.IdentityHashMap.forEach(IdentityHashMap.java:1354)
+	at com.intellij.ui.CardLayoutPanel.removeAll(CardLayoutPanel.java:216)
+	at com.intellij.ui.CardLayoutPanel.dispose(CardLayoutPanel.java:67)
+	at com.intellij.openapi.options.ex.ConfigurableCardPanel.dispose(ConfigurableCardPanel.java:214)
+	at com.intellij.openapi.util.ObjectTree.runWithTrace(ObjectTree.java:138)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:168)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:153)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:141)
+	at com.intellij.openapi.ui.DialogWrapper.close(DialogWrapper.java:464)
+	at com.intellij.openapi.ui.DialogWrapper.close(DialogWrapper.java:469)
+	at com.intellij.openapi.ui.DialogWrapper.doOKAction(DialogWrapper.java:1068)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.applyAndClose(SettingsDialog.java:200)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.doOKAction(SettingsDialog.java:191)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable$showDialog$dialog$1.doOKAction(ProjectStructureConfigurable.kt:293)
+	at com.intellij.openapi.ui.DialogWrapper$OkAction.doAction(DialogWrapper.java:1887)
+	at com.intellij.openapi.ui.DialogWrapper$DialogWrapperAction.actionPerformed(DialogWrapper.java:1840)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:787)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.desktop/java.awt.Dialog.show(Dialog.java:1063)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$MyDialog.show(DialogWrapperPeerImpl.java:694)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl.show(DialogWrapperPeerImpl.java:436)
+	at com.intellij.openapi.ui.DialogWrapper.doShow(DialogWrapper.java:1702)
+	at com.intellij.openapi.ui.DialogWrapper.show(DialogWrapper.java:1661)
+	at com.intellij.openapi.ui.DialogWrapper.showAndGet(DialogWrapper.java:1675)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.showDialog(ProjectStructureConfigurable.kt:332)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.showPlace(ProjectStructureConfigurable.kt:270)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.show(ProjectStructureConfigurable.kt:286)
+	at com.android.tools.idea.gradle.structure.actions.AndroidShowStructureSettingsAction.showAndroidProjectStructure(AndroidShowStructureSettingsAction.java:67)
+	at com.android.tools.idea.gradle.structure.actions.AndroidShowStructureSettingsAction.actionPerformed(AndroidShowStructureSettingsAction.java:59)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:267)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:241)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:231)
+	at com.intellij.ui.popup.ActionPopupStep.lambda$onChosen$2(ActionPopupStep.java:217)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:95)
+	at com.intellij.ui.popup.AbstractPopup.lambda$dispose$18(AbstractPopup.java:1511)
+	at com.intellij.util.ui.EdtInvocationManager.invokeLaterIfNeeded(EdtInvocationManager.java:101)
+	at com.intellij.ide.IdeEventQueue.ifFocusEventsInTheQueue(IdeEventQueue.java:188)
+	at com.intellij.ide.IdeEventQueue.executeWhenAllFocusEventsLeftTheQueue(IdeEventQueue.java:140)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:173)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.doWhenFocusSettlesDown(IdeFocusManagerImpl.java:36)
+	at com.intellij.ui.popup.AbstractPopup.dispose(AbstractPopup.java:1507)
+	at com.intellij.ui.popup.WizardPopup.dispose(WizardPopup.java:163)
+	at com.intellij.ui.popup.list.ListPopupImpl.dispose(ListPopupImpl.java:343)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.dispose(PopupFactoryImpl.java:290)
+	at com.intellij.openapi.util.ObjectTree.runWithTrace(ObjectTree.java:138)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:168)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:153)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:141)
+	at com.intellij.ui.popup.WizardPopup.disposeAllParents(WizardPopup.java:266)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleNextStep(ListPopupImpl.java:460)
+	at com.intellij.ui.popup.list.ListPopupImpl._handleSelect(ListPopupImpl.java:432)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleSelect(ListPopupImpl.java:378)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.handleSelect(PopupFactoryImpl.java:310)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyMouseListener.mouseReleased(ListPopupImpl.java:652)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:298)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyList.processMouseEvent(ListPopupImpl.java:728)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:787)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-03-20 00:16:45,397 [  48349]   WARN - xecution.GradleExecutionHelper - Gradle execution error 
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056)
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2133)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.poll(ArrayBlockingQueue.java:432)
+	at org.jetbrains.plugins.gradle.service.project.BuildActionRunner.takeQueueResultBlocking(BuildActionRunner.kt:113)
+	at org.jetbrains.plugins.gradle.service.project.BuildActionRunner.fetchModels(BuildActionRunner.kt:71)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.doResolveProjectInfo(GradleProjectResolver.java:262)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:768)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:751)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.lambda$execute$0(GradleExecutionHelper.java:119)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.maybeApplyUserDirWorkaround(GradleExecutionHelper.java:141)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.lambda$execute$1(GradleExecutionHelper.java:119)
+	at org.jetbrains.plugins.gradle.GradleConnectorService$Companion.withGradleConnection(GradleConnectorService.kt:178)
+	at org.jetbrains.plugins.gradle.GradleConnectorService.withGradleConnection(GradleConnectorService.kt)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.execute(GradleExecutionHelper.java:115)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:145)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:67)
+	at com.intellij.openapi.externalSystem.service.project.ExternalSystemProjectResolver.resolveProjectInfo(ExternalSystemProjectResolver.java:61)
+	at com.android.tools.idea.gradle.project.sync.idea.GradleSyncExecutor.fetchGradleModels(GradleSyncExecutor.java:192)
+	at com.android.tools.idea.gradle.project.sync.GradleSyncInvoker.fetchGradleModels(GradleSyncInvoker.java:155)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$future$1.call(GradleResolver.kt:42)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$future$1.call(GradleResolver.kt:39)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$1.run(GradleResolver.kt:47)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:998)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressAsync$5(CoreProgressManager.java:497)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:228)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:178)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:688)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:634)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:64)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:165)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:228)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-03-20 00:16:45,415 [  48367]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Project Structure' id=android.project.structure 
+2022-03-20 00:16:45,659 [  48611]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginAdvertiserExtensionsStateService$State 
+2022-03-20 00:17:33,248 [  96200]   WARN - minal.model.TerminalTextBuffer - Terminal height < screen buffer line count: 20 < 21 
+2022-03-20 00:19:51,146 [ 234098]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2022-03-20 00:19:51,147 [ 234099]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;./gradlew 
+2022-03-20 00:19:52,150 [ 235102]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..MyApplication 
+2022-03-20 00:19:52,203 [ 235155]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+1.8: /usr/lib/jvm/java-8-openjdk-amd64
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+1.8: /usr/lib/jvm/java-8-openjdk-amd64
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+1.8: /usr/lib/jvm/java-8-openjdk-amd64
+2022-03-20 00:22:40,263 [ 403215]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Gradle' id=reference.settingsdialog.project.gradle 
+2022-03-20 00:22:41,258 [ 404210]   WARN - re.configurables.PsContextImpl - PSD failed to fetch Gradle models. 
+java.util.concurrent.CancellationException
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:121)
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+	at com.google.common.util.concurrent.Uninterruptibles.getUninterruptibly(Uninterruptibles.java:240)
+	at com.google.common.util.concurrent.Futures.getDone(Futures.java:1123)
+	at com.google.common.util.concurrent.AbstractCatchingFuture.run(AbstractCatchingFuture.java:92)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:30)
+	at com.google.common.util.concurrent.ExecutionList.executeListener(ExecutionList.java:141)
+	at com.google.common.util.concurrent.ExecutionList.execute(ExecutionList.java:130)
+	at com.google.common.util.concurrent.ListenableFutureTask.done(ListenableFutureTask.java:107)
+	at java.base/java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:381)
+	at java.base/java.util.concurrent.FutureTask.cancel(FutureTask.java:179)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$2.dispose(GradleResolver.kt:51)
+	at com.intellij.openapi.util.ObjectTree.runWithTrace(ObjectTree.java:138)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:168)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:153)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:141)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.disposeUIResources(ProjectStructureConfigurable.kt:427)
+	at com.intellij.openapi.options.ex.ConfigurableCardPanel.dispose(ConfigurableCardPanel.java:153)
+	at com.intellij.openapi.options.ex.ConfigurableCardPanel.dispose(ConfigurableCardPanel.java:35)
+	at java.base/java.util.IdentityHashMap.forEach(IdentityHashMap.java:1354)
+	at com.intellij.ui.CardLayoutPanel.removeAll(CardLayoutPanel.java:216)
+	at com.intellij.ui.CardLayoutPanel.dispose(CardLayoutPanel.java:67)
+	at com.intellij.openapi.options.ex.ConfigurableCardPanel.dispose(ConfigurableCardPanel.java:214)
+	at com.intellij.openapi.util.ObjectTree.runWithTrace(ObjectTree.java:138)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:168)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:153)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:141)
+	at com.intellij.openapi.ui.DialogWrapper.close(DialogWrapper.java:464)
+	at com.intellij.openapi.ui.DialogWrapper.close(DialogWrapper.java:469)
+	at com.intellij.openapi.ui.DialogWrapper.doOKAction(DialogWrapper.java:1068)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.applyAndClose(SettingsDialog.java:200)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.doOKAction(SettingsDialog.java:191)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable$showDialog$dialog$1.doOKAction(ProjectStructureConfigurable.kt:293)
+	at com.intellij.openapi.ui.DialogWrapper$OkAction.doAction(DialogWrapper.java:1887)
+	at com.intellij.openapi.ui.DialogWrapper$DialogWrapperAction.actionPerformed(DialogWrapper.java:1840)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:797)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:787)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.desktop/java.awt.Dialog.show(Dialog.java:1063)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$MyDialog.show(DialogWrapperPeerImpl.java:694)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl.show(DialogWrapperPeerImpl.java:436)
+	at com.intellij.openapi.ui.DialogWrapper.doShow(DialogWrapper.java:1702)
+	at com.intellij.openapi.ui.DialogWrapper.show(DialogWrapper.java:1661)
+	at com.intellij.openapi.ui.DialogWrapper.showAndGet(DialogWrapper.java:1675)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.showDialog(ProjectStructureConfigurable.kt:332)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.showPlace(ProjectStructureConfigurable.kt:270)
+	at com.android.tools.idea.structure.dialog.ProjectStructureConfigurable.show(ProjectStructureConfigurable.kt:286)
+	at com.android.tools.idea.gradle.structure.actions.AndroidShowStructureSettingsAction.showAndroidProjectStructure(AndroidShowStructureSettingsAction.java:67)
+	at com.android.tools.idea.gradle.structure.actions.AndroidShowStructureSettingsAction.actionPerformed(AndroidShowStructureSettingsAction.java:59)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:267)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:241)
+	at com.intellij.ui.popup.ActionPopupStep.performAction(ActionPopupStep.java:231)
+	at com.intellij.ui.popup.ActionPopupStep.lambda$onChosen$2(ActionPopupStep.java:217)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:95)
+	at com.intellij.ui.popup.AbstractPopup.lambda$dispose$18(AbstractPopup.java:1511)
+	at com.intellij.util.ui.EdtInvocationManager.invokeLaterIfNeeded(EdtInvocationManager.java:101)
+	at com.intellij.ide.IdeEventQueue.ifFocusEventsInTheQueue(IdeEventQueue.java:188)
+	at com.intellij.ide.IdeEventQueue.executeWhenAllFocusEventsLeftTheQueue(IdeEventQueue.java:140)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:173)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.doWhenFocusSettlesDown(IdeFocusManagerImpl.java:36)
+	at com.intellij.ui.popup.AbstractPopup.dispose(AbstractPopup.java:1507)
+	at com.intellij.ui.popup.WizardPopup.dispose(WizardPopup.java:163)
+	at com.intellij.ui.popup.list.ListPopupImpl.dispose(ListPopupImpl.java:343)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.dispose(PopupFactoryImpl.java:290)
+	at com.intellij.openapi.util.ObjectTree.runWithTrace(ObjectTree.java:138)
+	at com.intellij.openapi.util.ObjectTree.executeAll(ObjectTree.java:168)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:153)
+	at com.intellij.openapi.util.Disposer.dispose(Disposer.java:141)
+	at com.intellij.ui.popup.WizardPopup.disposeAllParents(WizardPopup.java:266)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleNextStep(ListPopupImpl.java:460)
+	at com.intellij.ui.popup.list.ListPopupImpl._handleSelect(ListPopupImpl.java:432)
+	at com.intellij.ui.popup.list.ListPopupImpl.handleSelect(ListPopupImpl.java:378)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionGroupPopup.handleSelect(PopupFactoryImpl.java:310)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyMouseListener.mouseReleased(ListPopupImpl.java:652)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:298)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at com.intellij.ui.popup.list.ListPopupImpl$MyList.processMouseEvent(ListPopupImpl.java:728)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:787)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-03-20 00:22:41,261 [ 404213]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Project Structure' id=android.project.structure 
+2022-03-20 00:22:41,258 [ 404210]   WARN - xecution.GradleExecutionHelper - Gradle execution error 
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056)
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2133)
+	at java.base/java.util.concurrent.ArrayBlockingQueue.poll(ArrayBlockingQueue.java:432)
+	at org.jetbrains.plugins.gradle.service.project.BuildActionRunner.takeQueueResultBlocking(BuildActionRunner.kt:113)
+	at org.jetbrains.plugins.gradle.service.project.BuildActionRunner.fetchModels(BuildActionRunner.kt:71)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.doResolveProjectInfo(GradleProjectResolver.java:262)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:768)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver$ProjectConnectionDataNodeFunction.fun(GradleProjectResolver.java:751)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.lambda$execute$0(GradleExecutionHelper.java:119)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.maybeApplyUserDirWorkaround(GradleExecutionHelper.java:141)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.lambda$execute$1(GradleExecutionHelper.java:119)
+	at org.jetbrains.plugins.gradle.GradleConnectorService$Companion.withGradleConnection(GradleConnectorService.kt:178)
+	at org.jetbrains.plugins.gradle.GradleConnectorService.withGradleConnection(GradleConnectorService.kt)
+	at org.jetbrains.plugins.gradle.service.execution.GradleExecutionHelper.execute(GradleExecutionHelper.java:115)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:145)
+	at org.jetbrains.plugins.gradle.service.project.GradleProjectResolver.resolveProjectInfo(GradleProjectResolver.java:67)
+	at com.intellij.openapi.externalSystem.service.project.ExternalSystemProjectResolver.resolveProjectInfo(ExternalSystemProjectResolver.java:61)
+	at com.android.tools.idea.gradle.project.sync.idea.GradleSyncExecutor.fetchGradleModels(GradleSyncExecutor.java:192)
+	at com.android.tools.idea.gradle.project.sync.GradleSyncInvoker.fetchGradleModels(GradleSyncInvoker.java:155)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$future$1.call(GradleResolver.kt:42)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$future$1.call(GradleResolver.kt:39)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.android.tools.idea.gradle.structure.GradleResolver$requestProjectResolved$1.run(GradleResolver.kt:47)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:998)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressAsync$5(CoreProgressManager.java:497)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:228)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:178)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:688)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:634)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:64)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:165)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:228)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+1.8: /usr/lib/jvm/java-8-openjdk-amd64
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+1.8: /usr/lib/jvm/java-8-openjdk-amd64
+Current JDK's:
+Android Studio default JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 32 Platform: /home/swithun/Android/Sdk
+11: /home/swithun/.local/share/umake/android/android-studio/jre
+Android API 31 Platform: /home/swithun/Android/Sdk
+Embedded JDK: /home/swithun/.local/share/umake/android/android-studio/jre
+Android Studio java home: /home/swithun/.local/share/umake/android/android-studio/jre
+1.8: /usr/lib/jvm/java-8-openjdk-amd64
+2022-03-20 12:23:59,485 [43682437]   WARN -            #com.android.ddmlib - Failed to start monitoring 192.168.0.106:5555 
+2022-03-20 14:29:17,873 [51200825]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Gradle' id=reference.settingsdialog.project.gradle 
+2022-03-20 14:35:41,466 [51584418]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Project Structure' id=android.project.structure 
